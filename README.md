@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-  Hey Everyone 👋, I'm Sudheer Kodati
+             Hey Everyone 👋, I'm Sudheer Kodati
 </h1>
 
 ![Banner](image.png)
