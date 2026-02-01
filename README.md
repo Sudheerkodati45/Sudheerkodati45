@@ -25,25 +25,8 @@ I am continuously learning and building in the DevOps and Cloud space, with a st
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,python,git,github,jenkins,html,kubernetes,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,python,git,github,jenkins,html,kubernetes,linux,nginx,terraform,ansible" />
 </p>
-
-## 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=jenkins" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=nginx" />
-</p>
-
 
 ## 🏅 Certifications
 
