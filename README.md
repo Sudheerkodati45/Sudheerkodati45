@@ -1,21 +1,26 @@
+# Hey Everyone 👋, I'm Sudheer Kodati
 ![Banner](banner.png)
-# Hey Everyone 👋, I'm Sudheer
 
-A passionate DevOps Engineer from India.  
-I work in the Corporate IT sector and in my free time I create DevOps content.
+## 🚀 About Me
 
-## 💼 Current Project
+I am a passionate DevOps Engineer with hands-on experience in designing, automating, and managing cloud-native infrastructure and CI/CD workflows. I work closely with enterprise-scale systems, building reliable and scalable Kubernetes-based platforms and cloud solutions.
 
-**SIDGS Digisol Pvt Ltd | DevOps – ICICI Bank (Client) | Nov 2024 – Present**
+Currently, I work with **SIDGS Digisol Pvt Ltd for ICICI Bank (Client)**, where I focus on automating deployments, managing hybrid cloud environments, and ensuring high availability of production systems using modern DevOps practices.
 
-- Built and automated CI/CD pipelines using Jenkins for microservices deployed on Kubernetes, improving release speed and reducing manual effort.  
-- Managed Kubernetes with GCP Hybrid using bare metal in all production environments; used Helm charts for scalable and consistent deployments.  
-- Implemented configuration management and automation using Ansible, enhancing reliability and repeatability of deployments.  
-- Applied API Gateway policies and integrated services with backend microservices to ensure secure and resilient architectures.  
-- Monitored application performance and Kubernetes infrastructure health to maintain high availability and service reliability.  
+I am continuously learning and building in the DevOps and Cloud space, with a strong focus on automation, scalability, and reliability.
+
+## 📌 Profile & Contact
+
+- 👨‍💻 All of my projects are available at:  
+  https://github.com/Sudheerkodati45 
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📧 How to reach me: **kodatisudheer5@gmail.com**
+  
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sudheerkodati45/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudheerkodati45/)  
 
 ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
