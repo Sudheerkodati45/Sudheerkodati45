@@ -1,5 +1,8 @@
-# Hey Everyone 👋, I'm Sudheer Kodati
-![Banner](banner.png)
+<h1 style="text-align: center;">
+  Hey Everyone 👋, I'm Sudheer Kodati
+</h1>
+
+![Banner](image.png)
 
 ## 🚀 About Me
 
