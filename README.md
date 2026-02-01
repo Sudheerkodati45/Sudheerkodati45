@@ -13,9 +13,7 @@ I am continuously learning and building in the DevOps and Cloud space, with a st
 
 - 👨‍💻 All of my projects are available at:  
   https://github.com/Sudheerkodati45 
-
 - 💬 Ask me about **DevOps & Cloud DevOps**
-
 - 📧 How to reach me: **kodatisudheer5@gmail.com**
   
 
